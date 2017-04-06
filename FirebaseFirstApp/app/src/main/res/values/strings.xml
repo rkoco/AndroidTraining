@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name" translatable="false">EducarChile</string>
+    <string name="action_sign_in_short">Registrarse</string>
+    <string name="minimum_password">Contraseña muy corta, ingresa al menos 6 carácteres</string>
+    <string name="auth_failed">Autentificación Falló, revisa tu correo y contraseña, o registrate</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="btn_login" translatable="false">LOGIN</string>
+    <string name="btn_link_to_register">No tienes cuenta?, regístrate!</string>
+    <string name="btn_back" translatable="false"><![CDATA[<< Back]]></string>
+    <string name="btn_send">Enviar</string>
+    <string name="btn_sign_out">Salir</string>
+    <string name="btn_link_to_login">Ya estoy registrado. ir a log in.</string>
+    <string name="btn_upload">Subir</string>
+    <string name="btn_choose">Elegir</string>
+    <string name="choose_picture_dialog">Eliga Imagen</string>
+    <string name="link_view_uploads">Ver Imagenes</string>
+    <string name="hint_image_description">Ingrese una descripción para la Imagen</string>
+    <string name="sign_out">Salir</string>
+</resources>

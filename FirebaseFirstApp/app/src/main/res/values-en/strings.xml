@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_sign_in_short">Sign In</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="btn_link_to_register">Not a member? Register!</string>
+    <string name="btn_link_to_login">Already registered, log in!</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="minimum_password">Password Too short. It must be at least 6 characters</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_upload">Upload</string>
+    <string name="btn_choose">Choose</string>
+    <string name="choose_picture_dialog">Choose Picture</string>
+    <string name="link_view_uploads">View Uploads</string>
+    <string name="hint_image_description">Enter a description for the Image</string>
+    <string name="sign_out">Sign Out</string>
+</resources>
